@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/cn/itcast/mybatis/dao/UserDao.java=UTF-8
+encoding//src/cn/itcast/mybatis/dao/UserDaoImpl.java=UTF-8
+encoding//src/cn/itcast/mybatis/first/MybatisFirst.java=UTF-8
+encoding//src/cn/itcast/mybatis/mapper/UserMapper.java=UTF-8
+encoding//src/cn/itcast/mybatis/po/UserCustom.java=UTF-8
+encoding//src/cn/itcast/mybatis/po/UserQueryVo.java=UTF-8
+encoding//test/cn/itcast/mybatis/dao/UserDaoImplTest.java=UTF-8
+encoding//test/cn/itcast/mybatis/mapper/UserMapperTest.java=UTF-8
